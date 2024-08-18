@@ -1,6 +1,5 @@
-## Hi there 👋
+## BE, DevOps, SA McNal입니다 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828&layout=compact)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
@@ -65,3 +64,7 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<div>
+    <img
+      src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp
+      </div>
