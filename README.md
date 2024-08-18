@@ -1,4 +1,7 @@
-## BE, DevOps, SA McNal입니다 👋
+## McNal입니다 👋
+#### BE / DevOps / SA 
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -30,9 +33,9 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -56,14 +59,12 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+      src="https://img.shields.io/badge/eastbrush28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
+
+<br>
+
 <div>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828"/>&nbsp
