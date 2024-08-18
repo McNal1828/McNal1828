@@ -7,9 +7,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
-
-  
-
 </div>
 
 <div align="center">
@@ -24,12 +21,12 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/FastAPI-43853D?style=for-the-badge&logo=fastAPI&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastAPI&logoColor=white" />&nbsp
 </div>
 
 <br>
