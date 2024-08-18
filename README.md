@@ -26,7 +26,7 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastAPI&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastAPI&logoColor=4EA94B" />&nbsp
 </div>
 
 <br>
