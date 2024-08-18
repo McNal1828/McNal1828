@@ -2,8 +2,11 @@
 #### SA / DevOps / BE 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=McNal1828&fontSize=90&desc=SA/DevOps/BE&descAlignY=65" />
-
-<h3 align="center">✨ Tech Stack ✨</h3>
+<div style="display:flex;">
+  <div>    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828"/>&nbsp</div>
+  <div>
+    <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
@@ -61,11 +64,6 @@
 <div align="center">
     <img
       src="https://img.shields.io/badge/eastbrush28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</div></div>
 </div>
 
-<br>
-
-<div>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828"/>&nbsp
-      </div>
