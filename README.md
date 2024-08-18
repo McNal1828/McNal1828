@@ -66,5 +66,5 @@
 </div>
 <div>
     <img
-      src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828"/>&nbsp
       </div>
