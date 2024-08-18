@@ -2,7 +2,7 @@
 #### SA / DevOps / BE 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=McNal1828&fontSize=90&desc=SA/DevOps/BE&descAlignY=65" />
-<div style="display:flex;">
+<div style="display=flex;">
   <div>    <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNal1828"/>&nbsp</div>
   <div>
